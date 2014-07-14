@@ -1,3 +1,4 @@
+#Did note work in ArcGIS
 import os
 import arcpy
 arcpy.env.workspace = "C:/Skydrive/2014 Ontodia/National/Census_tract/shapefiles/zips/tl_2013_06_tract"
